@@ -1,0 +1,1 @@
+Always write test that fails, then write code so it passes.
